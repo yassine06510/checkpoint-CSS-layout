@@ -1,0 +1,9 @@
+.logo-docplanner{
+  width: 500px;
+}
+*intro-section{
+display: flex;
+flex-direction: column;
+align-items: center;
+margin:0%;
+}
